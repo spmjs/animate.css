@@ -4,8 +4,8 @@
   }
 
   100% {
-    opacity: 0;
-    transform: translateY(2000px);
+    visibility: hidden;
+    transform: translateY(100%);
   }
 }
 

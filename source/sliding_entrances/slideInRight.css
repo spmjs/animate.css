@@ -1,7 +1,7 @@
 @keyframes slideInRight {
   0% {
-    opacity: 0;
-    transform: translateX(2000px);
+    transform: translateX(100%);
+    visibility: visible;
   }
 
   100% {

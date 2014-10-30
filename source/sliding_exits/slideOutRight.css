@@ -4,8 +4,8 @@
   }
 
   100% {
-    opacity: 0;
-    transform: translateX(2000px);
+    visibility: hidden;
+    transform: translateX(100%);
   }
 }
 
